@@ -13,7 +13,7 @@ export default function Footer() {
                 <Droplets size={24} />
               </div>
               <span className="font-display text-2xl font-bold tracking-tight">
-                PureJet<span className="text-secondary">Care</span>
+                Driveways<span className="text-secondary"> Pressure Washed</span>
               </span>
             </Link>
             <p className="text-slate-500 leading-relaxed">
@@ -60,22 +60,22 @@ export default function Footer() {
             <ul className="space-y-4 text-slate-500">
               <li className="flex items-start gap-3">
                 <MapPin className="text-primary shrink-0" size={20} />
-                <span className="font-medium">123 Clean Street, London, <br />United Kingdom, SW1A 1AA</span>
+                <span className="font-medium">Stockport,Manchester <br />United Kingdom</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="text-primary shrink-0" size={20} />
-                <span className="font-medium">0123 456 7890</span>
+                <span className="font-medium">07778833881</span>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="text-primary shrink-0" size={20} />
-                <span className="font-medium">info@purejetcare.co.uk</span>
+                <span className="font-medium">info@paul.co.uk</span>
               </li>
             </ul>
           </div>
         </div>
 
         <div className="pt-8 border-t border-emerald-100 flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-slate-400">
-          <p>© 2026 PureJet Surface Care. All rights reserved.</p>
+          <p>© 2026 Driveways pressure washed. All rights reserved.</p>
           <div className="flex gap-6 font-medium">
             <a href="#" className="hover:text-primary transition-colors">Privacy Policy</a>
             <a href="#" className="hover:text-primary transition-colors">Terms of Service</a>

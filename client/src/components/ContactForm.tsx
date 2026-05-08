@@ -22,7 +22,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm font-medium uppercase tracking-wider mb-1">Call Us</p>
-                    <p className="text-xl font-bold">0123 456 7890</p>
+                    <p className="text-xl font-bold">0777 883 3981</p>
                   </div>
                 </div>
 
@@ -32,7 +32,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm font-medium uppercase tracking-wider mb-1">Email Us</p>
-                    <p className="text-xl font-bold">info@purejetcare.co.uk</p>
+                    <p className="text-xl font-bold">info@paul.co.uk</p>
                   </div>
                 </div>
 
@@ -42,7 +42,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="text-white/50 text-sm font-medium uppercase tracking-wider mb-1">Our Location</p>
-                    <p className="text-xl font-bold">London & South East UK</p>
+                    <p className="text-xl font-bold">Stockport,Manchester United Kingdom</p>
                   </div>
                 </div>
               </div>
@@ -76,7 +76,7 @@ export default function ContactForm() {
                 <label className="text-sm font-bold text-slate-700 ml-1">Phone Number</label>
                 <input 
                   type="tel" 
-                  placeholder="07123 456789"
+                  placeholder="07778 833981"
                   className="w-full px-6 py-4 rounded-2xl bg-white border border-slate-200 focus:border-primary focus:ring-4 focus:ring-primary/5 outline-none transition-all"
                 />
               </div>

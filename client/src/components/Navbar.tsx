@@ -42,7 +42,7 @@ export default function Navbar() {
             <Droplets size={24} />
           </div>
           <span className="font-display text-xl font-bold tracking-tight">
-            PureJet<span className="text-primary">Care</span>
+            DriveWays<span className="text-primary"> Pressure Washed</span>
           </span>
         </Link>
 
@@ -65,7 +65,7 @@ export default function Navbar() {
             className="flex items-center gap-2 px-6 py-3 rounded-full bg-primary text-white text-sm font-bold hover:bg-primary/90 transition-all shadow-xl shadow-primary/20"
           >
             <Phone size={16} />
-            0123 456 7890
+            0777 883 3981
           </a>
         </div>
 
